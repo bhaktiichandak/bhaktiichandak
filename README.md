@@ -1,76 +1,78 @@
-# Hey, I'm Bhakti Chandak 👋
+                    BHAKTI CHANDAK
+              Computer Science Student
+          AI/ML • Software Engineering • Data
 
-### Computer Science Student | Developer | Builder
+     "Building things to understand how they work."
 
-I enjoy building things, experimenting with technology, and understanding
-how software works under the hood.
+────────────────────────────────────────────────
 
-Currently exploring **Software Engineering, AI/ML, and Systems**.
+                    👩‍💻 About Me
 
----
+  🎓 B.Tech CSE @ RCOEM
+  🤖 Interested in AI/ML & Software Engineering
+  🧠 Building RAG & GenAI applications
+  🔬 Interested in ML evaluation & system robustness
+  🍞 Currently building ToastOS
 
-## 🚀 What I'm Building
+────────────────────────────────────────────────
 
-### 🍞 ToastOS
+                    🛠️ Tech Stack
 
-A personal operating system built from scratch to understand how computers
-work at the lowest level.
+ Languages
+ Python • Java • C++ • JavaScript • SQL • Bash
 
-> Kernel • C • Assembly • Memory • Processes • Filesystems
+ AI / GenAI
+ PyTorch • TensorFlow • OpenCV • LangChain
+ OpenAI APIs • CrewAI • RAG
 
----
+ Data
+ Pandas • NumPy • PySpark • Power BI
+ ETL • Data Warehousing
 
-## 🛠️ Technologies
+ Backend / Cloud
+ Node.js • Spring Boot • REST APIs
+ PostgreSQL • MySQL • MongoDB • AWS • Supabase
 
-### Languages
-`Python` `C` `C++` `Java` `JavaScript`
+ Dev Tools
+ Git • GitHub • Linux • Docker • GitHub Actions
 
-### AI / Machine Learning
-`Machine Learning` `Computer Vision` `NumPy` `Pandas`
+────────────────────────────────────────────────
 
-### Development
-`HTML` `CSS` `JavaScript` `React` `Node.js`
+                  🚀 Featured Projects
 
-### Tools
-`Git` `GitHub` `Linux` `VS Code`
+ 🍞 ToastOS
+ Building an operating system from scratch
 
----
+ 🕵️ Deepfake Image Detection
+ ResNet50 • Ensemble ML • PyTorch
 
-## 🔥 Featured Projects
+ 🛡️ AutoShield
+ ML-based fraud & fake-account detection
 
-### 🍞 ToastOS
-Building an operating system from scratch.
+ 🤖 Enterprise Knowledge Assistant
+ RAG • LLMs • Embeddings • Vector Search
 
-### 🤖 AI Gesture Detector
-Computer vision project that uses hand gestures to interact with applications.
+ 📊 Data Warehousing & ETL
+ SQL • Star Schema • Power BI
 
-### 🧠 AI News Researcher
-An AI-powered research workflow using multi-agent systems.
+────────────────────────────────────────────────
 
-### 📊 Pizza Sales Dashboard
-Interactive Power BI dashboard for analyzing sales, revenue and customer trends.
+                 💼 Experience
 
----
+ NovelVista Learning Solutions
+ GenAI Intern | 2026
 
-## 📚 Currently Learning
+ RAG • LLMs • Evaluation • Retrieval
+ Latency • Token Cost • Data Validation
 
-- Operating Systems
-- System Programming
-- Artificial Intelligence
-- Machine Learning
-- Data Structures & Algorithms
-- Software Engineering
+────────────────────────────────────────────────
 
----
+                  📊 GitHub Stats
 
-## 📈 GitHub
+             contributions • projects
 
-I'm constantly learning, building and experimenting.
+────────────────────────────────────────────────
 
----
+              🌐 Let's Connect
 
-## 🤝 Let's Connect
-
-Feel free to explore my repositories and follow along with what I'm building.
-
-**Thanks for visiting! 🚀**
+             LinkedIn • GitHub • Email
