@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/bhakti-chandak-b1a80030b/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/bhaktichandak">
+<a href="https://github.com/bhaktiichandak">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="mailto:bhaktichandak04@gmail.com">
@@ -77,7 +77,7 @@ learn into projects.
 
 <div align="center">
 
-<a href="https://github.com/bhaktichandak">
+<a href="https://github.com/bhaktiichandak">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktichandak&repo=Ai-based-gesture-detector&theme=tokyonight&hide_border=true" />
 </a>
 
