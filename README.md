@@ -1,41 +1,42 @@
-<div align="center">
+<h1 align="center">Hey, I'm Bhakti Chandak 👋</h1>
 
-# Hey, I'm Bhakti Chandak 👋
+<p align="center">
+  <b>Computer Science Student • AI/ML • Software Engineering • Systems</b>
+</p>
 
-### Computer Science Student • AI/ML • Software Engineering • Systems
+<p align="center">
+  Building AI-powered applications and exploring systems from the ground up.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Exploring+systems+%26+operating+systems;Learning+by+building+things;Currently+building+ToastOS+%F0%9F%8D%9E" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/bhakti-chandak-b1a80030b/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/bhaktiichandak">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:bhaktichandak04@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_INSTAGRAM_URL">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="YOUR_X_URL">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science student at **RCOEM, Nagpur**, interested in
-**Artificial Intelligence, Software Engineering, Data Engineering, and Systems**.
+I'm a Computer Science student interested in:
 
-I enjoy understanding how things work under the hood and turning what I
-learn into projects.
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Generative AI & RAG
+- ⚙️ Software Engineering
+- 🐧 Linux & Systems Programming
+- 🗄️ Data Engineering & ETL
+- 🧪 Model Evaluation & Robustness
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 🤖 GenAI / ML enthusiast
-- 🧪 Interested in model evaluation, testing and robustness
-- 🗄️ Interested in data engineering and ETL systems
-- 🐧 Exploring Linux and systems programming
-- 🍞 Currently building **ToastOS**, my own operating system
+Currently building **ToastOS 🍞**, my own operating system from scratch.
 
 ---
 
@@ -44,169 +45,144 @@ learn into projects.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,bash" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts,sql" />
 </p>
 
 ### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
-`LangChain` • `CrewAI` • `OpenAI APIs` • `Hugging Face` • `RAG`
+`LangChain` • `CrewAI` • `RAG` • `Hugging Face` • `OpenAI APIs`
 
-### 📊 Data & Analytics
+### 🌐 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,html,css" />
 </p>
 
-`Pandas` • `NumPy` • `PySpark` • `Power BI` • `ETL` • `Data Warehousing`
-
-### ⚙️ Development & Infrastructure
+### ⚙️ Tools & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,nodejs" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
 </p>
 
 `REST APIs` • `GitHub Actions` • `CI/CD`
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/bhaktiichandak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktichandak&repo=Ai-based-gesture-detector&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/bhaktichandak">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bhaktichandak&repo=crewAI-news-researcher&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+<table>
+<tr>
+<td width="50%">
 
 ### 🍞 ToastOS
 
-> A personal operating system built from scratch.
+Personal operating system built from scratch.
 
-**Exploring:** C • Assembly • Kernel Development • Memory • Processes • Filesystems
+**Exploring**
 
-🚧 **Currently building**
+`C` `Assembly` `Kernel` `Memory` `Processes` `Filesystems`
 
----
+🚧 Currently building
+
+</td>
+
+<td width="50%">
 
 ### 🕵️ Deepfake Image Detection
 
-> Deep learning based image detection using ResNet50 and ensemble methods.
+Deep-learning based image detection using ResNet50 and ensemble methods.
 
-**Focus:** PyTorch • Computer Vision • Model Evaluation • Robustness
+**Focus**
 
----
+`PyTorch` `Computer Vision` `Model Evaluation`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🛡️ AutoShield
 
-> ML-based fraud and fake-account detection system.
+ML-based fraud and fake-account detection system.
 
-**Focus:** Machine Learning • Behavioral Analysis • Risk Scoring
+**Focus**
 
----
+`Machine Learning` `Behavioral Analysis` `Risk Scoring`
+
+</td>
+
+<td width="50%">
 
 ### 🤖 Enterprise Knowledge Assistant
 
-> RAG-based knowledge assistant for querying enterprise documents.
+RAG-based assistant for querying enterprise documents.
 
-**Focus:** LLMs • RAG • Chunking • Embeddings • Vector Search
+**Focus**
 
----
+`LLMs` `RAG` `Embeddings` `Vector Search`
 
-### 📊 Data Warehousing & ETL
-
-> End-to-end data pipeline using layered architecture and analytical models.
-
-**Focus:** SQL • ETL • Star Schema • Power BI
+</td>
+</tr>
+</table>
 
 ---
 
-# 💼 Experience
+## 📊 GitHub Statistics
 
-### NovelVista Learning Solutions
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaktiichandak&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiichandak&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-**GenAI Intern | June 2026 – July 2026**
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktiichandak&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+</p>
+
+---
+
+## 💼 Experience
+
+### GenAI Intern — NovelVista Learning Solutions
 
 Worked on Generative AI and RAG-based applications involving:
 
 - LLM-powered workflows
-- Document processing and chunking
-- Embeddings and vector search
+- Document processing & chunking
+- Embeddings & vector search
 - Retrieval optimization
 - Model evaluation
-- Latency and token-cost analysis
-- Automated testing and validation
+- Latency & token-cost analysis
+- Automated testing & validation
 
 ---
 
-# 📈 GitHub Statistics
+## 🎓 Education
 
-<div align="center">
+**B.Tech — Computer Science & Engineering**  
+RCOEM, Nagpur • 2024 – Present
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=bhaktichandak&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktichandak&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=bhaktichandak&theme=tokyonight&hide_border=true" />
-
-</div>
+**Diploma — Computer Engineering**  
+Government Polytechnic, Arvi • 2021 – 2024
 
 ---
 
-# 🧊 3D Contribution Skyline
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="900" />
-
-</div>
-
----
-
-# 🎓 Education
-
-**B.Tech – Computer Science & Engineering**  
-RCOEM, Nagpur • 2024 – Present  
-**CGPA: 8.84**
-
-**Diploma – Computer Engineering**  
-Government Polytechnic, Arvi • 2021 – 2024  
-**92.63%**
-
----
-
-# 🏆 Certifications
+## 🏆 Certifications
 
 - AWS Certified – Data Engineering
 - AICTE Internship – AI/ML Development
 
 ---
 
-# 👥 Leadership
-
-### ACM RCOEM
-**Student Developer Head**
-
-### Compusys – CSE Student Society
-**Joint Treasurer**
-
----
-
-# 📚 Currently Learning
+## 🌱 Currently Learning
 
 ```text
 Operating Systems
