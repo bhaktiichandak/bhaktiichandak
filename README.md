@@ -132,8 +132,8 @@ RAG-based assistant for querying enterprise documents.
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=bhaktiichandak&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiichandak&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bhaktiichandak&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktiichandak&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
@@ -141,7 +141,7 @@ RAG-based assistant for querying enterprise documents.
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktiichandak&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bhaktiichandak&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
